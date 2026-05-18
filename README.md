@@ -1,3 +1,5 @@
+> **声明**：本项目的所有代码和文档均由 AI 辅助创建。
+
 # Web Novel Writer — AI 网文写作工作流
 
 一个为 AI 辅助长篇网络小说创作设计的结构化工作流 skill。适用于 OpenCode / Claude Code 等支持 skill 机制的 AI 编程助手。
